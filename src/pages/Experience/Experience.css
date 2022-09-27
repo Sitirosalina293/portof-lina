@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    min-width: 880px;
+ }
+ .box{
+    width: 85%;
+ }
+ .item{
+   background-color : #A6D4AE;
+   border-radius: 20px;
+ }
+ 
+ h3,h5,h6 {
+   background-color : transparent;
+ }

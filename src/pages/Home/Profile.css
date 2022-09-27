@@ -1,0 +1,32 @@
+.container {
+   width: 100%;
+   min-width: 880px;
+}
+.box{
+    width: 85%;
+}
+.myPhoto {
+    width: 50%;
+}
+img{
+    width: 85%;
+}
+.AboutMe{
+    width: 50%;
+}
+.sosmed{
+    color : #A6D4AE;
+}
+.btnHire{
+    color : #0c4c16;
+    background-color : #A6D4AE;
+    border: none;
+    border-radius: 10px;
+}
+.icon{
+    color: #0c4c16;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+.lina{color: #17a12c!important; }
+h4{color: #0c4c16 }

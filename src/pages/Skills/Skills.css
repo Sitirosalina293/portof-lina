@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    min-width: 880px;
+ }
+ .box{
+    width: 85%;
+ }
+ 
+ h3{
+   background-color : transparent;
+ }
+ .col1{
+  width: 50%;
+ }
+ .col2{
+  width: 50%;
+ }

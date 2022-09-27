@@ -1,0 +1,32 @@
+.head2{
+    width : 100%;
+    min-width: 880px;
+  }
+  .header_2{
+    height : 65px;
+    width : 85%;
+  }
+  .col2{
+    display :flex;
+  }
+  h3{
+    color:rgb(6, 42, 5);
+  }
+  .col2-item{
+    color:rgb(6, 42, 5);
+    font-size : 1.2em;
+    font-weight:500;
+    text-decoration:none;
+  }
+.Tag{
+  width: fit-content;
+}
+.Nvabar{
+  width: fit-content;
+}
+.connect{
+  width: fit-content;
+}
+.col2-item:hover{
+  color: #17a12c!important;
+}
